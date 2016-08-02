@@ -8,6 +8,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ### Added
 - [Feature] Created Token react component.
 - [Patch] Include an example of a Table React component with a Button within it.
+- [Patch] Update search input icon from oui-icons repo. (#482)
 
 ### Fixed
 - [Patch] Add expected spacing between the buttons in the React ButtonRow component. (#473)
